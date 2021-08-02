@@ -1,5 +1,5 @@
 # Trinsic Wallet Reference App
-[![Run on Repl.it](https://repl.it/badge/github/trinsic-id/wallet-reference-app)](https://repl.it/github/trinsic-id/wallet-reference-app)
+[![Run on Repl.it](https://repl.it/badge/github/paliwalg/wallet-reference-app)](https://repl.it/github/paliwalg/wallet-reference-app)
 
 This demo shows how to use Trinsic's Wallet API to manage cloud-based wallets under your Trinsic account. It is a Node.js backend which makes calls to the Trinsic Wallet API using the javascript service client.
 
